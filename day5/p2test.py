@@ -16,7 +16,7 @@ seedr = []
 for i in range(0, len(seedranges), 2):
     seedr.append(range(seedranges[i], seedranges[i]+seedranges[i+1]))
 
-i = 26273516
+i = 0
 
 while True:
     var = i
